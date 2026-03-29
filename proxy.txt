@@ -1,0 +1,8 @@
+# Add your proxies here (one per line)
+# Format: http://username:password@ip:port
+# Example:
+# http://user:pass@123.123.123.123:8080
+# http://user:pass@234.234.234.234:8080
+
+# You can also use proxies without authentication:
+# http://123.123.123.123:8080
