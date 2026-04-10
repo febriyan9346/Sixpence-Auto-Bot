@@ -16,7 +16,7 @@ init(autoreset=True)
 
 class SixpenceBot:
     def __init__(self):
-        self.rpc_url = "https://eth-sepolia.g.alchemy.com/v2/UNS1jOCemmN16O67Ypw7ftDgu6Yqwp5O"
+        self.rpc_url = "https://ethereum-sepolia-rpc.publicnode.com"
         self.faucet_contract = "0xcf59F40fCD6066dFf084AcceEEe51A98641626b1"
         self.pool_contract = "0x62ee6Aaf2aFaC4f0a3213e9F929Fc054F6C6befA"
         self.router_contract = "0xeE567Fe1712Faf6149d80dA1E6934E354124CfE3"
